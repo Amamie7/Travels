@@ -12,8 +12,6 @@
     box-sizing: border-box;
 }
 
-
-
 h2 {
     letter-spacing: 1.4rem;
     padding-top: 90px;
@@ -45,10 +43,6 @@ h2 {
       margin-top: 0.7rem;
     }
   
-    .tour-img {
-     display: none;
-    }
-  
     .tour-text-1 {
       padding-bottom: 0;
       margin-bottom: 0.2rem;
@@ -78,10 +72,6 @@ h2 {
   .tour-text {
     width: 100%;
     margin-top: 0.7rem;
-  }
-  
-  .tour-img {
-    display: none;
   }
   
   .tour-text-1 {
@@ -116,10 +106,6 @@ h2 {
       margin-top: 0.7rem;
     }
   
-    .tour-img {
-      display: none;
-    }
-  
     .tour-text-1 {
       padding-bottom: 0;
       margin-bottom: 0.2rem;
@@ -152,10 +138,6 @@ h2 {
       margin-top: 0.7rem;
     }
   
-    .tour-img {
-      display: none;
-    }
-  
     .tour-text-1 {
       padding-bottom: 0;
       margin-bottom: 0.2rem;
@@ -177,8 +159,6 @@ h2 {
     .card-1 {
       padding: 20px;
     }
-    
-  
   }
 
 @media (max-width: 320px) {
